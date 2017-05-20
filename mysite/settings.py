@@ -25,7 +25,7 @@ SECRET_KEY = 'korsw535p_m=7g*1=ww!*_h8m+5a*^lq6%(i__hm)0dz&k61b5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nnn.pythonanywhere.com', ]
 
 
 # Application definition
